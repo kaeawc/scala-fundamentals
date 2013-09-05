@@ -1,0 +1,1 @@
+trait StudyGroup extends Group
